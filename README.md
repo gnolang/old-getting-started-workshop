@@ -2,7 +2,7 @@
 
 Welcome to the world of Gno! Through this repository, you can effortlessly embark on a journey to write your first Gno realm -- otherwise known as a smart contract.
 
-Before you begin, we highly recommend exploring [Gno By Example](https://gno-by-example.com) to familiarize yourself with Gno's foundational concepts.
+Before you begin, we highly recommend exploring the [Official Documentation](https://docs.gno.land) to familiarize yourself with Gno's foundational concepts.
 
 ## Suggested Discovery Plan
 
@@ -13,25 +13,6 @@ Before you begin, we highly recommend exploring [Gno By Example](https://gno-by-
 5. Obtain faucet tokens and publish your contracts on https://staging.gno.land or another testnet.
 6. Start building more complex dApps, utilizing realms (`/r/...`) and pure packages (`/p/...`) you create or those crafted by the community. Leverage the `Render()` function for smooth interactions.
 7. Experiment with creating web frontends or new clients to engage with the chain and your contracts.
-
-## Using Gitpod
-
-Gitpod simplifies the setup by providing a `gnoland` node, a `gnoweb` server, and a pre-configured terminal with the `gno` CLI.
-
-1. Just click the button below.
-2. Start hacking!
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/new/#https://github.com/gnolang/getting-started)
-
-## Fork and Hack
-
-1. Install `gno` from https://github.com/gnolang/gno and set up your local environment.
-2. Fork this repo.
-3. Start hacking!
-
-## Gno IDE
-
-_Coming soon_
 
 ## Resources
 
