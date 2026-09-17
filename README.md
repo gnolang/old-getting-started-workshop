@@ -19,7 +19,7 @@ Before you begin, we highly recommend exploring [Gno By Example](https://gno-by-
 2. Learn to use the `gno` CLI to write and test your contracts (`gno test [PATH]`) without relying on a blockchain. It offers speed and convenience, and works similarly to the `go` command line tool.
 3. Master `gnokey` for account management and performing transactions.
 4. Discover how to publish contracts on your local devnet.
-5. Obtain faucet tokens from the [faucet](https://faucet.gno.land) and publish your contracts on the current testnet, [Pearl](https://pearl.testnets.gno.land/) (`pearl-1`). Mainnet (`gnoland-1`) has been live since 12 September 2026 and has no faucet.
+5. Obtain faucet tokens from the [faucet](https://faucet.gno.land) and publish your contracts on the current testnet — testnets are renamed and replaced every few weeks, so look up the current one in [Gno networks](https://docs.gno.land/resources/gnoland-networks). Mainnet (`gnoland-1`) has been live since 12 September 2026 and has no faucet.
 6. Start building more complex dApps, utilizing realms (`/r/...`) and pure packages (`/p/...`) you create or those crafted by the community. Leverage the `Render()` function for smooth interactions.
 7. Experiment with creating web frontends or new clients to engage with the chain and your contracts.
 
